@@ -31,7 +31,7 @@
   };
 
   // ✏️ 'available' | 'sleeping' | 'studying' | 'auto'
-  const CURRENT_STATUS = 'available';
+  const CURRENT_STATUS = 'auto';
 
   function resolveStatus() {
     if (CURRENT_STATUS !== 'auto') return STATUSES[CURRENT_STATUS] || STATUSES.available;
@@ -195,13 +195,13 @@
       tools: ['Roblox Studio','UI Design', 'Photoshop'], url: '',
       caseId: 'rb'
     },
-    {
+    /* {
       type: 'Visual Identity · Concept', name: 'Brand Identity',
       desc: 'Comprehensive visual identity systems for both real-world businesses and conceptual brands. Includes logo design, color theory, typography, and high-quality mockups in real-world contexts.',
       obj: 'Goal: Build scalable, strategically coherent brand ecosystems treated with professional-grade industry standards.',
       tools: ['Photoshop', 'Brand Design', 'Art Direction'], url: '',
       caseId: 'bi'
-    },
+    }, */
     {
       type: 'Sports Branding · Concept', name: 'Club Identity',
       desc: 'End-to-end visual identity systems for sports clubs, including matchday creative, weekly schedules, and special edition posters with a focus on consistency.',
