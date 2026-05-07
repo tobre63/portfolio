@@ -379,8 +379,8 @@
     },
     {
       text: "Placeholder",
-      name: "Lourenço Teixeira",
-      role: "Volleyball Athlete",
+      name: "Luis Torres",
+      role: "Owner of Happy Bubbles Laundry",
       initials: "LT",
       photo: "" // ex: "assets/images/testimonials/lourenco-teixeira.webp"
     }
