@@ -395,13 +395,13 @@
      TESTIMONIALS
   -------------------------------------------------- */
   const testimonials = [
-    {
+    /*{
       text: "Placeholder",
       name: "Miguel Ribeiro",
       role: "Brand Manager at AC Alfenense",
       initials: "MR",
       photo: "" // ex: "assets/images/testimonials/miguel-ribeiro.webp"
-    },
+    },*/
     {
       text: "Placeholder",
       name: "Eleven Degre",
@@ -416,13 +416,13 @@
       initials: "CM",
       photo: "" // ex: "assets/images/testimonials/carla-malafaya.webp"
     },
-    {
+    /*{
       text: "Placeholder",
       name: "José Dias",
       role: "Teacher at Systems & Programming",
       initials: "JD",
       photo: "" // ex: "assets/images/testimonials/jose-dias.webp"
-    },
+    },*/
     {
       text: "Placeholder",
       name: "Luis Torres",
